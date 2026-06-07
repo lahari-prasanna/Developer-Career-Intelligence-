@@ -1,0 +1,5 @@
+streamlit
+polars
+pandas
+matplotlib
+pyarrow
